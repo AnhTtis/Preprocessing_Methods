@@ -1,6 +1,9 @@
-kagglehub
-pandas
+opencv-python
 numpy
-scikit-learn
+pandas
 matplotlib
 seaborn
+kagglehub
+scikit-learn
+nltk
+tokenizers
