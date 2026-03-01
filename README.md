@@ -92,8 +92,6 @@ Preprocessing_Methods/
 
     * Bag of Words
     * TF-IDF
-  * Chuẩn bị dữ liệu cho Sentiment Analysis
-
 ---
 
 ### Hướng dẫn cài đặt
@@ -177,11 +175,11 @@ pip install -r requirements.txt
 
 > Trường hợp không dùng KaggleHub, có thể tải tại:
 
-* [Chest X-Ray Dataset](https://drive.google.com/drive/folders/your-image-dataset-link)
+* [Chest X-Ray Dataset](https://drive.google.com/drive/folders/13Pl54LPO3r0L8W95IMqxyygoBo7jDzVG?usp=sharing)
 
-* [Credit Card Fraud Dataset](https://drive.google.com/drive/folders/your-tabular-dataset-link)
+* [Credit Card Fraud Dataset](https://drive.google.com/drive/folders/1w87OCBt4dsMCtCCQ1RmCApcH2BS2fK5t?usp=sharing)
 
-* [IMDB Reviews Dataset](https://drive.google.com/drive/folders/your-text-dataset-link)
+* [IMDB Reviews Dataset](https://drive.google.com/drive/folders/1pPbTk4_cNVlEahsT3LSQEcqjD48kwbEV?usp=sharing)
 
 ---
 
