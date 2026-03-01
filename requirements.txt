@@ -7,3 +7,5 @@ kagglehub
 scikit-learn
 nltk
 tokenizers
+gensim
+os
