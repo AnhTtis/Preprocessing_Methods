@@ -13,7 +13,7 @@
 | Nguyễn Hữu Anh Trí | 23127130        |
 | Cao Trần Bá Đạt    | 23127168        |
 | Cao Tấn Hoàng Huy  | 23127051        |
-| Tô Trần Hoàng Triệu| 23127xxx        |
+| Tô Trần Hoàng Triệu| 23127133        |
 
 ---
 
